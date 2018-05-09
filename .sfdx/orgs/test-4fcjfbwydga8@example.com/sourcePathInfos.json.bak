@@ -45,29 +45,29 @@
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525842415633,
-            "changeTime": 1525842415633,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "modifiedTime": 1525840485302,
+            "changeTime": 1525840485302,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1525843178286,
-            "changeTime": 1525843178286,
-            "isWorkspace": true,
-            "contentHash": "4a73e8ffb7ba37e044c1e837bf5fcc55e61ae4e3"
+            "modifiedTime": 1525837422342,
+            "changeTime": 1525837422342,
+            "contentHash": "4422c14d4311811675b6d1e4072645d235af4fbd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1525839480965,
+            "changeTime": 1525839480965,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
-            "size": 542,
-            "modifiedTime": 1525843695835,
-            "changeTime": 1525843695835,
-            "contentHash": "2d1cf05b30d722a68e152d662b1f9300e03e28a1"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1525839519150,
+            "changeTime": 1525839519150,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1525843720944,
-            "changeTime": 1525843720944,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -944,14 +944,14 @@
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1525840721911,
+            "changeTime": 1525840531655,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669",
             "isMetadataFile": false,
-            "size": 334,
-            "modifiedTime": 1525843791122,
-            "changeTime": 1525843791122,
-            "contentHash": "df14e0782d0c703b15579aef1ba8c6efac91b6d5"
+            "state": "u"
         }
     ],
     [
@@ -1009,14 +1009,14 @@
     [
         "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1525840738039,
+            "changeTime": 1525840738039,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83",
             "isMetadataFile": false,
-            "size": 797,
-            "modifiedTime": 1525843998016,
-            "changeTime": 1525843998016,
-            "contentHash": "6da6d637d46abc6f782408b9da718702ca9f3dd9"
+            "state": "u"
         }
     ],
     [
@@ -1043,45 +1043,6 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1525842415642,
-            "changeTime": 1525842415642,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1525842453310,
-            "changeTime": 1525842453310,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Patti.Abeyratne\\Documents\\Salesforce\\GIT\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1525842415643,
-            "changeTime": 1525842415643,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
         }
     ]
 ]
